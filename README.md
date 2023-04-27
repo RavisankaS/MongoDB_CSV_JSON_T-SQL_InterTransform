@@ -6,10 +6,13 @@ And converting CSV data into JSON via python and then exporting them to MongoDB 
 
 This is a project done by Banuka Ambegoda and Ravisanka Siriwardenage of Niagara College Canada.
 
-#SQL Server
-#T-SQL
-#CSV
-#JSON
-#MongoDB
-#NoSQL
-#Jupyter
+![nosql](https://user-images.githubusercontent.com/89307136/234751504-a36f9d99-e7a0-40d3-af73-dad3b41de7a8.png)
+
+
+# SQL Server
+# T-SQL
+# CSV
+# JSON
+# MongoDB
+# NoSQL
+# Jupyter
