@@ -4,7 +4,7 @@ Converting, Importing and Exporting SQL and NoSQL of data between formats MongoD
 Converting Microsoft SQL server databases to No SQL thus making them convertibleto JSON.
 And converting CSV data into JSON via python and then exporting them to MongoDB and then converting them to SQL data.
 
-This is a project done by Banuka Ambegoda and Ravisanka Siriwardenage of Niagara College Canada.
+This is a project done by Ravisanka Siriwardenage and Banuka Ambegoda of Niagara College Canada.
 
 ![nosql](https://user-images.githubusercontent.com/89307136/234751504-a36f9d99-e7a0-40d3-af73-dad3b41de7a8.png)
 
